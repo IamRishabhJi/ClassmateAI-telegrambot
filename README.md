@@ -83,7 +83,6 @@ ClassMate AI is a Telegram chatbot that uses Google Gemini's latest AI models to
 - `discover_models.py` – List available Gemini models
 - `verify_integration.py` – Integration test script
 - `README.md` – You’re reading it!
-- `README_COMPLETE.md`, `QUICKSTART.md`, `QUICK_REFERENCE.md`, `SETUP.md` – Extra docs
 
 ---
 
